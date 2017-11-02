@@ -47,4 +47,4 @@ open two different browser to simulate player 1 and player 2.
 9. Player 1 starts to move. Then player 2 move until one player wins.
 
 # Author
-* Melih Gurgah
+* bringerofmyth
